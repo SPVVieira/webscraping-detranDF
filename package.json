@@ -1,0 +1,28 @@
+{
+  "name": "webscraping-detrandf",
+  "version": "1.0.0",
+  "description": "A robotic automation for data search in DetranDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPVVieira/webscraping-detranDF.git"
+  },
+  "keywords": [
+    "Node",
+    "RPA",
+    "web-scraping",
+    "detran"
+  ],
+  "author": "Victor Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPVVieira/webscraping-detranDF/issues"
+  },
+  "homepage": "https://github.com/SPVVieira/webscraping-detranDF#readme",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
